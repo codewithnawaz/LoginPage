@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LoginPage/static/css/main.b004e563.css",
+    "main.js": "/LoginPage/static/js/main.d4763ee5.js",
+    "static/media/Rectangle 15.png": "/LoginPage/static/media/Rectangle 15.2b73ddc038f3faedc54a.png",
+    "index.html": "/LoginPage/index.html",
+    "main.b004e563.css.map": "/LoginPage/static/css/main.b004e563.css.map",
+    "main.d4763ee5.js.map": "/LoginPage/static/js/main.d4763ee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b004e563.css",
+    "static/js/main.d4763ee5.js"
+  ]
+}
