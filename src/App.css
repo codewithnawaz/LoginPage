@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-main {
+
+    display: flex;
+    height: 80vh;
+    width: 80vw;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.container-left {
+    height: 100%;
+    width: 40vw;
+    border-radius: 20px;
+    background-image: url("../public/images/Rectangle\ 15.png");
+
+}
+
+.container-right {
+    height: 100%;
+    width: 40vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 55px;
+}
+
+.container {
+    width: 25vw;
+    height: 65vh;
+    margin: auto;
+
+}
+
+.p1 {
+    display: flex;
+    color: white;
+    position: relative;
+    top: 300px;
+    left: 20px;
+    font-size: 2.2rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.p2 {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 290px;
+    left: 20px;
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.p3 {
+    color: white;
+    position: relative;
+    top: 360px;
+    left: 20px;
+    font-weight: 100;
+    font-family: 'Poppins', sans-serif;
+}
+
+.p4 {
+    font-size: 2.8rem;
+}
+
+.text-img {
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+
+.emoji {
+    width: 50px;
+    height: 50px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+    border-radius: 10px;
+    height: 3rem;
+    -webkit-box-shadow: 0px 32px 42px -15px rgba(0, 0, 0, 0.47);
+    -moz-box-shadow: 0px 32px 42px -15px rgba(0, 0, 0, 0.47);
+    box-shadow: 0px 32px 42px -15px rgba(0, 0, 0, 0.47);
+}
+
+.input {
+    border-radius: 10px;
+    height: 3rem;
+    border: 1px solid rgb(162, 159, 159);
+    padding: 15px;
+}
+
+.psswrd {
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* @media only screen and (max-width: 414px) {
+    .container-main {
+     flex-direction: column;
+    }
+  } */
+  
